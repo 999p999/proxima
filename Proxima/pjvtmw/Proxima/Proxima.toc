@@ -1,0 +1,25 @@
+## Interface: 100200
+## Title: Proxima
+## Notes: Attempt to provide the useful and precise information to execute the best possible DPS rotation in every situation.
+## Author: Terrorblade - Ꭰꭱ.Ꮶꮻꮮᏼꭺꮪꭼꭱ
+## Version: 1.0
+## SavedVariables: ProximaDB
+## OptionalDeps: LibStub, LibDataBroker-1.1, LibDBIcon-1.0, AceSerializer-3.0
+## IconTexture: Interface\AddOns\Proxima\Media\PROXIMAICO2N.png
+
+# Libraries
+Libs\LibStub\LibStub.lua
+Libs\Ace3\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\Ace3\AceSerializer-3.0\AceSerializer-3.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+Libs\LibRangeCheck-3.0\LibRangeCheck-3.0.lua
+
+
+# Addon Files
+ProximaUtil2.lua
+Proxima.lua
+ProximaUtil1.lua
+
+
+
