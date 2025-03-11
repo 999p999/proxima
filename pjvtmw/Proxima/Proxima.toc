@@ -17,9 +17,10 @@ Libs\LibRangeCheck-3.0\LibRangeCheck-3.0.lua
 
 
 # Addon Files
+Utils16.lua
+Utils15.lua
 ProximaUtil2.lua
 Proxima.lua
 ProximaUtil1.lua
-
 
 
