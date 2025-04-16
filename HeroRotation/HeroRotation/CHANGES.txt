@@ -1,0 +1,60 @@
+tag 54001dbb586a74f925632ad42c39388eafa8521d 11.1.0.28
+Author:	Cilraaz <cilraaz@gmail.com>
+Date:	Wed Mar 19 14:45:34 2025 -0400
+
+commit c5e1cd5cb45146d9e152d474e59cab54cd596a9b
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 14:45:19 2025 -0400
+
+    build(TOC): 11.1.0.28 release
+
+commit ade6c6070e6e724bca4dc6011b86011911cf5ce7
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 14:44:25 2025 -0400
+
+    fix(Warrior): Fix Ravager handling
+    
+    - Instead of 15 seconds, the GUID is removed from the table as 12 seconds, reduced by haste, plus a 0.5 second buffer
+
+commit 347d522042c16cbd80c223cdd3997f7e629c0c95
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 14:43:37 2025 -0400
+
+    feat(Warrior): [NFC] Change how Ravager is referenced in APL comments
+
+commit 66c1610530c218eadb268b48d7d5beace603eb40
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 14:29:01 2025 -0400
+
+    feat(Devastation): Update to latest APL
+
+commit afa64d537934949f265ef1fe826c857a98f1b525
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 13:24:33 2025 -0400
+
+    feat(Survival): [NFC] Change howl_summon.ready in APL comments
+
+commit cdbbfa0636f62810b57aff69def7a9dfdd1c4bf1
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 13:22:57 2025 -0400
+
+    feat(Marksmanship): Minor APL Trickshots update
+
+commit cd6ff40541e846369b9b59627cce0be82e25553e
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 13:20:49 2025 -0400
+
+    feat(BeastMastery): Update to latest APL
+
+commit 16ed9af38ac9a23e3ba3554e69278ac9187f17cc
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 13:08:19 2025 -0400
+
+    feat(Marksmanship): Update to latest APL
+
+commit 0a844cf5bd8b8e2789c1164935d17313aed1d7e7
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Wed Mar 19 12:55:12 2025 -0400
+
+    feat(Windwalker): Update to latest APL
+
