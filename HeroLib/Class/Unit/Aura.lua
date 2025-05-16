@@ -39,6 +39,10 @@ do
   local AuraStack, AuraDuration, AuraExpirationTime, AuraSpellID, Index
 
   function Unit:AuraInfo(ThisSpell, Filter, Full)
+    if not ThisSpell then
+      --print("|cffff0000[HeroLib] Error: ThisSpell is nil")
+      return
+    end
     GUID = self:GUID()
     if not GUID then return end
 
