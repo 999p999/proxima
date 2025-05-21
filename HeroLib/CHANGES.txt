@@ -1,0 +1,16 @@
+tag d25fbf043b878b8e9fafb46f35cbc8dd20e862d1 11.0.7.02
+Author:	Cilraaz <cilraaz@gmail.com>
+Date:	Fri Dec 20 23:04:41 2024 -0500
+
+commit 7011964b8d4d6ee2ecc1301621d70a3f79c922bb
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Fri Dec 20 23:04:27 2024 -0500
+
+    build(TOC): 11.0.7.02 release
+
+commit 0486359e95d7fe425ba91403ab340e482739577e
+Author: Cilraaz <cilraaz@gmail.com>
+Date:   Fri Dec 20 10:11:15 2024 -0500
+
+    feat(Equipment): Add TWW2 tier set item IDs
+
